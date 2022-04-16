@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+You can play the game at: https://Devabubakar.github.io/github-games/
 ## Project to understand the basic of reviewing a pull request
 
 To play the game:
